@@ -55,3 +55,18 @@
 [submodule "alura-plus"]
 	path = alura-plus
 	url = https://github.com/EduardoVisconti/alura-plus
+[submodule "robotron-2000"]
+	path = robotron-2000
+	url = https://github.com/EduardoVisconti/robotron-2000
+[submodule "arquitetura-css"]
+	path = arquitetura-css
+	url = https://github.com/EduardoVisconti/arquitetura-css
+[submodule "cordel"]
+	path = cordel
+	url = https://github.com/EduardoVisconti/cordel
+[submodule "casaverde"]
+	path = casaverde
+	url = https://github.com/EduardoVisconti/casaverde
+[submodule "introducao-javascript"]
+	path = introducao-javascript
+	url = https://github.com/EduardoVisconti/introducao-javascript
