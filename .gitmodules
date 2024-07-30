@@ -1,0 +1,57 @@
+[submodule "alura-books"]
+	path = alura-books
+	url = https://github.com/EduardoVisconti/alura-books
+[submodule "projeto-android"]
+	path = projeto-android
+	url = https://github.com/EduardoVisconti/projeto-android
+[submodule "imersaodev-alura"]
+	path = imersaodev-alura
+	url = https://github.com/EduardoVisconti/imersaodev-alura
+[submodule "barbearia-alura"]
+	path = barbearia-alura
+	url = https://github.com/EduardoVisconti/barbearia-alura
+[submodule "flex-e-grid-main"]
+	path = flex-e-grid-main
+	url = https://github.com/EduardoVisconti/flex-e-grid-main
+[submodule "posicionando-elementos-flexbox"]
+	path = posicionando-elementos-flexbox
+	url = https://github.com/EduardoVisconti/posicionando-elementos-flexbox
+[submodule "projeto-apeperia"]
+	path = projeto-apeperia
+	url = https://github.com/EduardoVisconti/projeto-apeperia
+[submodule "projeto-atual"]
+	path = projeto-atual
+	url = https://github.com/EduardoVisconti/projeto-atual
+[submodule "js-heranca-polimorfismo"]
+	path = js-heranca-polimorfismo
+	url = https://github.com/EduardoVisconti/js-heranca-polimorfismo
+[submodule "js-orientacao-objetos"]
+	path = js-orientacao-objetos
+	url = https://github.com/EduardoVisconti/js-orientacao-objetos
+[submodule "aluramidi-curso"]
+	path = aluramidi-curso
+	url = https://github.com/EduardoVisconti/aluramidi-curso
+[submodule "regex"]
+	path = regex
+	url = https://github.com/EduardoVisconti/regex
+[submodule "doguito"]
+	path = doguito
+	url = https://github.com/EduardoVisconti/doguito
+[submodule "logica"]
+	path = logica
+	url = https://github.com/EduardoVisconti/logica
+[submodule "alura-store"]
+	path = alura-store
+	url = https://github.com/EduardoVisconti/alura-store
+[submodule "logica2"]
+	path = logica2
+	url = https://github.com/EduardoVisconti/logica2
+[submodule "Portfolio-Landing-Page"]
+	path = Portfolio-Landing-Page
+	url = https://github.com/EduardoVisconti/Portfolio-Landing-Page
+[submodule "Portfolio"]
+	path = Portfolio
+	url = https://github.com/EduardoVisconti/Portfolio
+[submodule "alura-plus"]
+	path = alura-plus
+	url = https://github.com/EduardoVisconti/alura-plus
